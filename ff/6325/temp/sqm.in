@@ -1,0 +1,11 @@
+Run semi-empirical minimization
+ &qmmm
+  qm_theory='AM1', grms_tol=0.05, tight_p_conv=1, scfconv=1.d-7, peptide_corr=1,  qmcharge=0,
+ /
+   6    C1       -0.6670        0.0000        0.0000 
+   6    C2        0.6670        0.0000        0.0000 
+   1    H1       -1.2210       -0.9290        0.0710 
+   1    H2       -1.2210        0.9290       -0.0710 
+   1    H3        1.2210        0.9290       -0.0710 
+   1    H4        1.2210       -0.9290        0.0710 
+

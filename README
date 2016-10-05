@@ -1,0 +1,15 @@
+---->>"ff" folder:
+
+lig.sdf -> GAFF/AM1-BCC -> lig.leap.crd, lig.leap.prm
+
+cmd:
+cd temp; pytleap --lig=../lig.sdf --lfrc=gaff
+
+CRD FORMAT:
+
+
+PRM FORMAT:
+q(electron unit)*18.2223
+
+
+
